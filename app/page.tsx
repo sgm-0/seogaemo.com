@@ -16,7 +16,7 @@ export default function ComingSoon() {
   }, []);
 
   return (
-    <div className="relative min-h-screen bg-gradient-to-br from-[#0a0a10] to-[#101016] text-white overflow-hidden">
+    <div className="relative min-h-[100dvh] bg-gradient-to-br from-[#0a0a10] to-[#101016] text-white overflow-hidden">
       {/* Mysterious glowing orb that follows mouse - Updated to brand color */}
       <div
         className="pointer-events-none fixed opacity-30 blur-[100px]"
