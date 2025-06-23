@@ -1,0 +1,39 @@
+{
+  "name": "서울개발자모임 - Seoul Developer Group",
+  "short_name": "서울개발자모임",
+  "description": "웹과 모바일 솔루션을 개발하는 개발자들의 모임입니다. 최신 기술 트렌드를 공유하고 함께 성장하는 개발자 커뮤니티입니다.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a10",
+  "theme_color": "#2C73F3",
+  "orientation": "portrait-primary",
+  "categories": ["developer", "community", "technology"],
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+} 
