@@ -119,6 +119,10 @@ export default function RootLayout({
           name="viewport"
           content="width=device-width, initial-scale=1, viewport-fit=cover"
         />
+        <meta
+          name="naver-site-verification"
+          content="7aaddd446ae4fd4703bcbabe57d94f966e221cc8"
+        />
       </head>
       <body className={inter.className}>
         <GoogleAnalytics />
